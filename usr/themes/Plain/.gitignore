@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+/js
+style.css
+webpack.config.js
+postcss.config.js
+index.js
+yarn.lock
+package.json
+yarn-error.log

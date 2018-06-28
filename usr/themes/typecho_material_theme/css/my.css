@@ -1,0 +1,24 @@
+blockquote {
+    padding: 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #dfe2e5;
+    color: #6a737d;
+}
+.panel-info>.panel-heading {
+    background-color: #56A36C;
+}
+.navbar.navbar-inverse {
+    background-color: #2E68AA;
+}
+.btn-info:not(.btn-link):not(.btn-flat) {
+    background-color: #2E68AA;
+}
+.btn-primary:not(.btn-link):not(.btn-flat) {
+    background-color: #56A36C;
+}
+.btn-success:not(.btn-link):not(.btn-flat) {
+    background-color: #56A36C;
+}
+.alert-info {
+    background-color: #56A36C;
+}

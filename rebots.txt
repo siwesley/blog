@@ -1,0 +1,5 @@
+# robots.txt generated at https://zhangxiaoyao.cn/
+User-agent: *
+Disallow: /admin/
+Disallow: /install/
+Sitemap: https://zhangxiaoyao.cn/baidu_sitemap.xml
